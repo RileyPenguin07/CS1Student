@@ -1,6 +1,6 @@
 class more pringting 2
 {
-    Public static void main (Strings args[])
+    public static void main (Strings args[])
     {
         system.out.print ("Welcome printer");
         {

@@ -1,5 +1,7 @@
+class morePringting2
+
 {
-    Public Static Void Main(strings args[])
+    public static void Main (Strings args[])
     {
         system.out.print ("welcome")
         {

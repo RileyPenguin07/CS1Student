@@ -1,4 +1,4 @@
-class pringtingart
+class pringtingArt2
 {
     Public Static Void Main (Strings args[])
     {
