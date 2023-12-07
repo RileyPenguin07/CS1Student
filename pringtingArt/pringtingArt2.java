@@ -1,21 +1,23 @@
+//Fix programming skeleton
+
 class pringtingArt2
 {
-    Public Static Void Main (Strings args[])
+    public static void main (Strings args[])
     {
-    System.out.println ("welcome");
-    
-    System.out.println ("*");
-    
-    System.out.println ("**");
-            
-    System.out.println ("***");
-               
-    System.out.println ("****");
+        System.out.println ("welcome");
+        
+        System.out.println ("*");
+        
+        System.out.println ("**");
                 
-    System.out.println ("***");
-                 
-    System.out.println ("**");
+        System.out.println ("***");
+                
+        System.out.println ("****");
                     
-    System.out.println ("*"); 
+        System.out.println ("***");
+                    
+        System.out.println ("**");
+                        
+        System.out.println ("*"); 
     }
 }

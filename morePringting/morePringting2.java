@@ -1,20 +1,21 @@
-class morePringting2
+//Fix System.out.print and programming skeleton
 
+class morePringting2
 {
-    public static void Main (Strings args[])
+    public static void main (Strings args[])
     {
-        system.out.print ("welcome")
-        {
-            system.out.print ("1")
-            {
-                system.out.print ("2 3")
-                {
-                    system.out.print ("4 5 6")
-                    {
-                        system.out.print ("7 8 9 10")
-                    }
-                }
-            }
-        }
+    System.out.print ("welcome")
+        
+    System.out.print ("1")
+            
+    System.out.print ("2 3")
+                
+    System.out.print ("4 5 6")
+                    
+    System.out.print ("7 8 9 10")
+                    
+          
+            
+        
     }
 }

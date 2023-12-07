@@ -1,3 +1,5 @@
+// Good
+
 class madLibs
 {
     public static void main (String args[])
