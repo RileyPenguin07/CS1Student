@@ -8,7 +8,7 @@ class more pringting 2
         
      System.out.print ("Riley Havins");
             
-     System.out.print ("Age 15")
+     System.out.print ("Age 15");
                 
      System.out.print ("goodbye");
                 
